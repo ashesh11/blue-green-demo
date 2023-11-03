@@ -20,7 +20,7 @@ def check_container_running(cont_name):
         for container_info in running_containers:
             _, container_name = container_info.split()
             containers.append(container_name)
-            if cont_name in containers:
-                # print('hey')
-                return True
+        if cont_name in containers:
+            return True
+    
     return False

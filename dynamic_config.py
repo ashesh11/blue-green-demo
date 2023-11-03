@@ -26,7 +26,7 @@ def update_weights(traffic_shift_percentage, server_name):
         config_file.write(updated_config)
 
     # Reload Nginx to apply the changes
-    os.system('docker exec -it demo_nginx_1 nginx -s reload')
+    os.system('docker exec -it demo_nginx nginx -s reload')
 
     print(f"Nginx configuration updated. {traffic_shift_percentage}% traffic handled by {server_name} server.")
 
@@ -44,8 +44,7 @@ def run_blue():
     print("Nginx configuration updated. 100% traffic shifted to blue server.")
 
     # Reload Nginx to apply the changes
-    os.system('docker exec -it demo_nginx_1 nginx -s reload')
-    os.system(f'docker stop demo_green_1')
+    os.system('docker exec -it demo_nginx nginx -s reload')
 
 def run_green():
     # copy the configuration file of green server
@@ -59,26 +58,23 @@ def run_green():
     print("Nginx configuration updated. 100% traffic shifted to green server.")
 
     # Reload Nginx to apply the changes
-    os.system('docker exec -it demo_nginx_1 nginx -s reload')
-    os.system(f'docker stop demo_blue_1')
+    os.system('docker exec -it demo_nginx nginx -s reload')
 
 def run_blue_green(server_name, traffic_shift_percentage):
     traffic_shift_percentage = int(traffic_shift_percentage)
 
-    if not check_container_running('demo_blue_1'):
-        os.system('docker start demo_blue_1')
-
-    if not check_container_running('demo_green_1'):
-        os.system('docker start demo_green_1')
-
     if server_name == 'blue':
-        if traffic_shift_percentage == 100:
+        if not check_container_running('demo_blue'):
+            print('Blue server of blue stack not running.')
+        elif traffic_shift_percentage == 100:
             run_blue()
         else:
             update_weights(traffic_shift_percentage=traffic_shift_percentage, server_name=server_name)
 
     elif server_name == 'green':
-        if traffic_shift_percentage == 100:
+        if not check_container_running('demo_green'):
+            print('Green server of green stack not running.')
+        elif traffic_shift_percentage == 100:
             run_green()
         else:
             update_weights(traffic_shift_percentage=traffic_shift_percentage, server_name=server_name)
