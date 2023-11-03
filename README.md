@@ -1,15 +1,17 @@
 Steps to run this app:
-- create an image named "demo" using Dockerfile
+- Create an image named "demo" using Dockerfile
 
-- run any blue or green stack. (e.g running blue)
+- Run any blue or green stack. (e.g running blue)
    _docker-compose -f docker-compose-blue.yml up --build -d_
 
--  blue server handles all request
+-  Blue server handles all request
 
-- run another stack:
+- Run another stack:
    _docker-compose -f docker-compose-green.yml up --build -d_  
 
-- to transfer 10% traffic to green:
+- To transfer 10% traffic to green:
    python dynamic_config.py green 10
 
-- to transfer more traffic increase the percentage
+- To transfer more traffic increase the percentage
+
+- Messages are queued on individual server's message broker. To view message queues of blue goto localhost:15672 and for green localhost:15673. Use guest as both username and password.
