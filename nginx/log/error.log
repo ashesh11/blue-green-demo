@@ -1,0 +1,1225 @@
+2023/11/01 07:56:02 [notice] 36#36: signal process started
+2023/11/01 07:56:04 [notice] 50#50: signal process started
+2023/11/01 07:56:05 [notice] 64#64: signal process started
+2023/11/01 07:56:06 [notice] 78#78: signal process started
+2023/11/01 07:56:07 [notice] 92#92: signal process started
+2023/11/01 07:56:08 [notice] 106#106: signal process started
+2023/11/01 07:56:09 [notice] 120#120: signal process started
+2023/11/01 07:56:11 [notice] 135#135: signal process started
+2023/11/01 07:56:12 [notice] 149#149: signal process started
+2023/11/01 07:56:13 [emerg] 163#163: invalid parameter "weight=0" in /etc/nginx/conf.d/default.conf:18
+2023/11/01 07:56:14 [notice] 169#169: signal process started
+2023/11/01 08:01:01 [notice] 183#183: signal process started
+2023/11/01 08:01:02 [notice] 197#197: signal process started
+2023/11/01 08:01:03 [notice] 211#211: signal process started
+2023/11/01 08:01:04 [notice] 225#225: signal process started
+2023/11/01 08:01:06 [notice] 239#239: signal process started
+2023/11/01 08:01:07 [notice] 253#253: signal process started
+2023/11/01 08:01:08 [notice] 267#267: signal process started
+2023/11/01 08:01:09 [notice] 281#281: signal process started
+2023/11/01 08:01:10 [notice] 295#295: signal process started
+2023/11/01 08:01:11 [emerg] 309#309: invalid parameter "weight=0" in /etc/nginx/conf.d/default.conf:19
+2023/11/01 08:01:13 [notice] 316#316: signal process started
+2023/11/01 10:26:16 [notice] 37#37: signal process started
+2023/11/01 10:26:17 [notice] 51#51: signal process started
+2023/11/01 10:26:18 [notice] 66#66: signal process started
+2023/11/01 10:26:19 [notice] 80#80: signal process started
+2023/11/01 10:26:20 [notice] 94#94: signal process started
+2023/11/01 10:26:21 [notice] 108#108: signal process started
+2023/11/01 10:26:23 [notice] 122#122: signal process started
+2023/11/01 10:26:24 [notice] 135#135: signal process started
+2023/11/01 10:26:25 [notice] 149#149: signal process started
+2023/11/01 10:26:26 [emerg] 163#163: invalid parameter "weight=0" in /etc/nginx/conf.d/default.conf:18
+2023/11/01 10:26:27 [notice] 169#169: signal process started
+2023/11/01 10:50:34 [notice] 183#183: signal process started
+2023/11/01 10:50:35 [notice] 197#197: signal process started
+2023/11/01 10:50:37 [notice] 211#211: signal process started
+2023/11/01 10:50:38 [notice] 225#225: signal process started
+2023/11/01 10:50:39 [notice] 239#239: signal process started
+2023/11/01 10:50:40 [notice] 253#253: signal process started
+2023/11/01 10:50:41 [notice] 267#267: signal process started
+2023/11/01 10:50:42 [notice] 281#281: signal process started
+2023/11/01 10:50:43 [notice] 295#295: signal process started
+2023/11/01 10:50:45 [emerg] 309#309: invalid parameter "weight=0" in /etc/nginx/conf.d/default.conf:19
+2023/11/01 10:50:46 [notice] 316#316: signal process started
+2023/11/01 11:04:59 [notice] 330#330: signal process started
+2023/11/01 11:05:00 [notice] 344#344: signal process started
+2023/11/01 11:05:01 [notice] 358#358: signal process started
+2023/11/01 11:05:02 [notice] 373#373: signal process started
+2023/11/01 11:06:03 [notice] 387#387: signal process started
+2023/11/01 11:06:04 [notice] 401#401: signal process started
+2023/11/01 11:06:06 [notice] 415#415: signal process started
+2023/11/01 11:06:07 [notice] 429#429: signal process started
+2023/11/01 11:06:08 [notice] 443#443: signal process started
+2023/11/01 11:06:40 [notice] 457#457: signal process started
+2023/11/01 11:06:41 [notice] 471#471: signal process started
+2023/11/01 11:06:42 [notice] 485#485: signal process started
+2023/11/01 11:06:43 [notice] 499#499: signal process started
+2023/11/01 11:06:44 [notice] 513#513: signal process started
+2023/11/01 11:06:45 [notice] 527#527: signal process started
+2023/11/01 11:06:47 [notice] 541#541: signal process started
+2023/11/01 11:06:48 [notice] 555#555: signal process started
+2023/11/01 11:06:49 [notice] 569#569: signal process started
+2023/11/01 11:06:50 [notice] 583#583: signal process started
+2023/11/01 11:10:21 [notice] 597#597: signal process started
+2023/11/01 11:10:23 [notice] 611#611: signal process started
+2023/11/01 11:10:24 [notice] 625#625: signal process started
+2023/11/01 11:10:25 [notice] 639#639: signal process started
+2023/11/01 11:10:26 [notice] 652#652: signal process started
+2023/11/01 11:10:27 [notice] 666#666: signal process started
+2023/11/01 11:10:28 [notice] 680#680: signal process started
+2023/11/01 11:10:30 [notice] 694#694: signal process started
+2023/11/01 11:10:31 [notice] 708#708: signal process started
+2023/11/01 11:10:32 [notice] 722#722: signal process started
+2023/11/01 11:10:51 [error] 728#728: *13 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/"
+2023/11/01 11:10:51 [error] 728#728: *13 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/"
+2023/11/01 11:10:51 [error] 728#728: *13 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/"
+2023/11/01 11:10:51 [error] 728#728: *13 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/"
+2023/11/01 11:10:52 [error] 728#728: *13 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/"
+2023/11/01 11:11:04 [error] 728#728: *13 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/"
+2023/11/01 11:11:05 [error] 728#728: *13 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/"
+2023/11/01 11:11:05 [error] 728#728: *13 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/"
+2023/11/01 11:11:05 [error] 728#728: *13 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/"
+2023/11/01 11:11:23 [error] 728#728: *13 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/"
+2023/11/01 11:11:23 [error] 728#728: *13 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/"
+2023/11/01 11:11:23 [error] 728#728: *13 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/"
+2023/11/01 11:11:23 [error] 728#728: *13 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/"
+2023/11/01 11:11:45 [error] 28#28: *1 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/"
+2023/11/01 11:11:46 [error] 28#28: *1 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/"
+2023/11/01 11:11:46 [error] 28#28: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://172.18.0.3:5000/", host: "127.0.0.1"
+2023/11/01 11:11:46 [error] 28#28: *1 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/"
+2023/11/01 11:11:47 [error] 31#31: *7 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/"
+2023/11/01 11:11:48 [error] 31#31: *7 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/"
+2023/11/01 11:11:48 [error] 33#33: *12 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/"
+2023/11/01 11:11:48 [error] 33#33: *12 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/"
+2023/11/01 11:11:49 [error] 33#33: *12 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/"
+2023/11/01 11:28:55 [emerg] 1#1: "set" directive is not allowed here in /etc/nginx/nginx.conf:15
+2023/11/01 11:28:56 [emerg] 1#1: "set" directive is not allowed here in /etc/nginx/nginx.conf:15
+2023/11/01 11:28:57 [emerg] 1#1: "set" directive is not allowed here in /etc/nginx/nginx.conf:15
+2023/11/01 11:28:58 [emerg] 1#1: "set" directive is not allowed here in /etc/nginx/nginx.conf:15
+2023/11/01 11:28:59 [emerg] 1#1: "set" directive is not allowed here in /etc/nginx/nginx.conf:15
+2023/11/01 11:29:01 [emerg] 1#1: "set" directive is not allowed here in /etc/nginx/nginx.conf:15
+2023/11/01 11:29:05 [emerg] 1#1: "set" directive is not allowed here in /etc/nginx/nginx.conf:15
+2023/11/01 11:29:12 [emerg] 1#1: "set" directive is not allowed here in /etc/nginx/nginx.conf:15
+2023/11/01 11:29:25 [emerg] 1#1: unknown directive "message: $sent_http_message" in /etc/nginx/nginx.conf:19
+2023/11/01 11:29:29 [emerg] 1#1: unknown directive "message: $sent_http_message" in /etc/nginx/nginx.conf:19
+2023/11/01 11:29:30 [emerg] 1#1: unknown directive "message: $sent_http_message" in /etc/nginx/nginx.conf:19
+2023/11/01 11:29:31 [emerg] 1#1: unknown directive "message: $sent_http_message" in /etc/nginx/nginx.conf:19
+2023/11/01 11:29:32 [emerg] 1#1: unknown directive "message: $sent_http_message" in /etc/nginx/nginx.conf:19
+2023/11/01 11:29:33 [emerg] 1#1: unknown directive "message: $sent_http_message" in /etc/nginx/nginx.conf:19
+2023/11/01 11:29:35 [emerg] 1#1: unknown directive "message: $sent_http_message" in /etc/nginx/nginx.conf:19
+2023/11/01 11:29:39 [emerg] 1#1: unknown directive "message: $sent_http_message" in /etc/nginx/nginx.conf:19
+2023/11/01 11:29:45 [emerg] 1#1: unknown directive "message: $sent_http_message" in /etc/nginx/nginx.conf:19
+2023/11/01 11:29:46 [emerg] 1#1: unknown directive "message: $sent_http_message" in /etc/nginx/nginx.conf:19
+2023/11/01 11:29:47 [emerg] 1#1: unknown directive "message: $sent_http_message" in /etc/nginx/nginx.conf:19
+2023/11/01 11:29:48 [emerg] 1#1: unknown directive "message: $sent_http_message" in /etc/nginx/nginx.conf:19
+2023/11/01 11:29:49 [emerg] 1#1: unknown directive "message: $sent_http_message" in /etc/nginx/nginx.conf:19
+2023/11/01 11:29:51 [emerg] 1#1: unknown directive "message: $sent_http_message" in /etc/nginx/nginx.conf:19
+2023/11/01 11:29:55 [emerg] 1#1: unknown directive "message: $sent_http_message" in /etc/nginx/nginx.conf:19
+2023/11/01 11:30:02 [emerg] 1#1: unknown directive "message: $sent_http_message" in /etc/nginx/nginx.conf:19
+2023/11/01 11:30:15 [emerg] 1#1: unknown directive "message: $sent_http_message" in /etc/nginx/nginx.conf:19
+2023/11/01 11:30:41 [emerg] 1#1: unknown directive "message: "$sent_http_message" " in /etc/nginx/nginx.conf:19
+2023/11/01 11:31:29 [emerg] 1#1: unknown directive "message: "$sent_http_message" " in /etc/nginx/nginx.conf:19
+2023/11/01 11:31:30 [emerg] 1#1: unknown directive "message: "$sent_http_message" " in /etc/nginx/nginx.conf:19
+2023/11/01 11:31:30 [emerg] 1#1: unknown directive "message: "$sent_http_message" " in /etc/nginx/nginx.conf:19
+2023/11/01 11:31:31 [emerg] 1#1: unknown directive "message: "$sent_http_message" " in /etc/nginx/nginx.conf:19
+2023/11/01 11:31:33 [emerg] 1#1: unknown directive "message: "$sent_http_message" " in /etc/nginx/nginx.conf:19
+2023/11/01 11:31:35 [emerg] 1#1: unknown directive "message: "$sent_http_message" " in /etc/nginx/nginx.conf:19
+2023/11/01 11:31:38 [emerg] 1#1: unknown directive "message: "$sent_http_message" " in /etc/nginx/nginx.conf:19
+2023/11/01 11:31:45 [emerg] 1#1: unknown directive "message: "$sent_http_message" " in /etc/nginx/nginx.conf:19
+2023/11/01 11:31:59 [emerg] 1#1: unknown directive "message: "$sent_http_message" " in /etc/nginx/nginx.conf:19
+2023/11/01 11:32:25 [emerg] 1#1: unknown directive "message: "$sent_http_message" " in /etc/nginx/nginx.conf:19
+2023/11/01 11:32:51 [emerg] 1#1: unknown directive " custom_message: "$sent_http_message" " in /etc/nginx/nginx.conf:19
+2023/11/01 11:32:52 [emerg] 1#1: unknown directive " custom_message: "$sent_http_message" " in /etc/nginx/nginx.conf:19
+2023/11/01 11:32:52 [emerg] 1#1: unknown directive " custom_message: "$sent_http_message" " in /etc/nginx/nginx.conf:19
+2023/11/01 11:32:53 [emerg] 1#1: unknown directive " custom_message: "$sent_http_message" " in /etc/nginx/nginx.conf:19
+2023/11/01 11:32:55 [emerg] 1#1: unknown directive " custom_message: "$sent_http_message" " in /etc/nginx/nginx.conf:19
+2023/11/01 11:32:57 [emerg] 1#1: unknown directive " custom_message: "$sent_http_message" " in /etc/nginx/nginx.conf:19
+2023/11/01 11:33:00 [emerg] 1#1: unknown directive " custom_message: "$sent_http_message" " in /etc/nginx/nginx.conf:19
+2023/11/01 11:33:07 [emerg] 1#1: unknown directive " custom_message: "$sent_http_message" " in /etc/nginx/nginx.conf:19
+2023/11/01 11:33:21 [emerg] 1#1: unknown directive " custom_message: "$sent_http_message" " in /etc/nginx/nginx.conf:19
+2023/11/01 11:33:47 [emerg] 1#1: unknown directive " custom_message: "$sent_http_message"" in /etc/nginx/nginx.conf:19
+2023/11/01 11:33:56 [emerg] 1#1: unknown directive " custom_message: "$sent_http_message"" in /etc/nginx/nginx.conf:19
+2023/11/01 11:33:57 [emerg] 1#1: unknown directive " custom_message: "$sent_http_message"" in /etc/nginx/nginx.conf:19
+2023/11/01 11:33:58 [emerg] 1#1: unknown directive " custom_message: "$sent_http_message"" in /etc/nginx/nginx.conf:19
+2023/11/01 11:33:58 [emerg] 1#1: unknown directive " custom_message: "$sent_http_message"" in /etc/nginx/nginx.conf:19
+2023/11/01 11:34:00 [emerg] 1#1: unknown directive " custom_message: "$sent_http_message"" in /etc/nginx/nginx.conf:19
+2023/11/01 11:34:02 [emerg] 1#1: unknown directive " custom_message: "$sent_http_message"" in /etc/nginx/nginx.conf:19
+2023/11/01 11:34:06 [emerg] 1#1: unknown directive " custom_message: "$sent_http_message"" in /etc/nginx/nginx.conf:19
+2023/11/01 11:34:12 [emerg] 1#1: unknown directive " custom_message: "$sent_http_message"" in /etc/nginx/nginx.conf:19
+2023/11/01 11:34:26 [emerg] 1#1: unknown directive " custom_message: "$sent_http_message"" in /etc/nginx/nginx.conf:19
+2023/11/01 11:34:49 [emerg] 1#1: unknown directive " custom_message: "$sent_http_message"" in /etc/nginx/nginx.conf:19
+2023/11/01 11:34:49 [emerg] 1#1: unknown directive " custom_message: "$sent_http_message"" in /etc/nginx/nginx.conf:19
+2023/11/01 11:34:50 [emerg] 1#1: unknown directive " custom_message: "$sent_http_message"" in /etc/nginx/nginx.conf:19
+2023/11/01 11:34:51 [emerg] 1#1: unknown directive " custom_message: "$sent_http_message"" in /etc/nginx/nginx.conf:19
+2023/11/01 11:34:52 [emerg] 1#1: unknown directive " custom_message: "$sent_http_message"" in /etc/nginx/nginx.conf:19
+2023/11/01 11:35:39 [emerg] 1#1: unknown directive " custom_message: "$sent_http_message"" in /etc/nginx/nginx.conf:19
+2023/11/01 11:35:40 [emerg] 1#1: unknown directive " custom_message: "$sent_http_message"" in /etc/nginx/nginx.conf:19
+2023/11/01 11:35:41 [emerg] 1#1: unknown directive " custom_message: "$sent_http_message"" in /etc/nginx/nginx.conf:19
+2023/11/01 11:35:42 [emerg] 1#1: unknown directive " custom_message: "$sent_http_message"" in /etc/nginx/nginx.conf:19
+2023/11/01 11:35:43 [emerg] 1#1: unknown directive " custom_message: "$sent_http_message"" in /etc/nginx/nginx.conf:19
+2023/11/01 11:35:45 [emerg] 1#1: unknown directive " custom_message: "$sent_http_message"" in /etc/nginx/nginx.conf:19
+2023/11/01 11:35:49 [emerg] 1#1: unknown directive " custom_message: "$sent_http_message"" in /etc/nginx/nginx.conf:19
+2023/11/01 11:35:56 [emerg] 1#1: unknown directive " custom_message: "$sent_http_message"" in /etc/nginx/nginx.conf:19
+2023/11/01 11:36:09 [emerg] 1#1: unknown directive " custom_message: "$sent_http_message"" in /etc/nginx/nginx.conf:19
+2023/11/01 11:36:35 [emerg] 1#1: unknown directive " custom_message: "$sent_http_message"" in /etc/nginx/nginx.conf:19
+2023/11/01 11:37:45 [emerg] 1#1: unknown directive " custom_message: "$sent_http_message"" in /etc/nginx/nginx.conf:19
+2023/11/01 11:37:45 [emerg] 1#1: unknown directive " custom_message: "$sent_http_message"" in /etc/nginx/nginx.conf:19
+2023/11/01 11:37:46 [emerg] 1#1: unknown directive " custom_message: "$sent_http_message"" in /etc/nginx/nginx.conf:19
+2023/11/01 11:37:47 [emerg] 1#1: unknown directive " custom_message: "$sent_http_message"" in /etc/nginx/nginx.conf:19
+2023/11/01 11:37:48 [emerg] 1#1: unknown directive " custom_message: "$sent_http_message"" in /etc/nginx/nginx.conf:19
+2023/11/01 11:37:50 [emerg] 1#1: unknown directive " custom_message: "$sent_http_message"" in /etc/nginx/nginx.conf:19
+2023/11/01 11:37:54 [emerg] 1#1: unknown directive " custom_message: "$sent_http_message"" in /etc/nginx/nginx.conf:19
+2023/11/01 11:38:01 [emerg] 1#1: unknown directive " custom_message: "$sent_http_message"" in /etc/nginx/nginx.conf:19
+2023/11/01 11:38:14 [emerg] 1#1: unknown directive " custom_message: "$sent_http_message"" in /etc/nginx/nginx.conf:19
+2023/11/01 11:38:40 [emerg] 1#1: unknown directive " custom_message: "$message"" in /etc/nginx/nginx.conf:19
+2023/11/01 11:38:51 [emerg] 1#1: unknown directive " custom_message: "$message"" in /etc/nginx/nginx.conf:19
+2023/11/01 11:38:52 [emerg] 1#1: unknown directive " custom_message: "$message"" in /etc/nginx/nginx.conf:19
+2023/11/01 11:38:53 [emerg] 1#1: unknown directive " custom_message: "$message"" in /etc/nginx/nginx.conf:19
+2023/11/01 11:38:54 [emerg] 1#1: unknown directive " custom_message: "$message"" in /etc/nginx/nginx.conf:19
+2023/11/01 11:38:55 [emerg] 1#1: unknown directive " custom_message: "$message"" in /etc/nginx/nginx.conf:19
+2023/11/01 11:38:57 [emerg] 1#1: unknown directive " custom_message: "$message"" in /etc/nginx/nginx.conf:19
+2023/11/01 11:39:01 [emerg] 1#1: unknown directive " custom_message: "$message"" in /etc/nginx/nginx.conf:19
+2023/11/01 11:39:08 [emerg] 1#1: unknown directive " custom_message: "$message"" in /etc/nginx/nginx.conf:19
+2023/11/01 11:39:22 [emerg] 1#1: unknown directive " custom_message: "$message"" in /etc/nginx/nginx.conf:19
+2023/11/01 11:39:48 [emerg] 1#1: unknown directive " custom_message: "$http_message"" in /etc/nginx/nginx.conf:19
+2023/11/01 11:40:03 [emerg] 1#1: unknown directive " custom_message: "$http_message"" in /etc/nginx/nginx.conf:19
+2023/11/01 11:40:04 [emerg] 1#1: unknown directive " custom_message: "$http_message"" in /etc/nginx/nginx.conf:19
+2023/11/01 11:40:05 [emerg] 1#1: unknown directive " custom_message: "$http_message"" in /etc/nginx/nginx.conf:19
+2023/11/01 11:40:06 [emerg] 1#1: unknown directive " custom_message: "$http_message"" in /etc/nginx/nginx.conf:19
+2023/11/01 11:40:07 [emerg] 1#1: unknown directive " custom_message: "$http_message"" in /etc/nginx/nginx.conf:19
+2023/11/01 11:40:09 [emerg] 1#1: unknown directive " custom_message: "$http_message"" in /etc/nginx/nginx.conf:19
+2023/11/01 11:40:13 [emerg] 1#1: unknown directive " custom_message: "$http_message"" in /etc/nginx/nginx.conf:19
+2023/11/01 11:40:20 [emerg] 1#1: unknown directive " custom_message: "$http_message"" in /etc/nginx/nginx.conf:19
+2023/11/01 11:40:33 [emerg] 1#1: unknown directive " custom_message: "$http_message"" in /etc/nginx/nginx.conf:19
+2023/11/01 11:40:59 [emerg] 1#1: unknown directive " custom_message: "$http_message"" in /etc/nginx/nginx.conf:19
+2023/11/01 11:42:31 [error] 28#28: *1 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.21.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/"
+2023/11/01 11:42:32 [error] 28#28: *1 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.21.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/"
+2023/11/01 11:42:32 [error] 28#28: *1 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.21.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/"
+2023/11/01 11:42:33 [error] 28#28: *1 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.21.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/"
+2023/11/01 11:44:44 [error] 28#28: *1 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.21.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/"
+2023/11/01 11:44:45 [error] 28#28: *1 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.21.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/"
+2023/11/01 11:44:45 [error] 28#28: *1 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.21.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/"
+2023/11/01 11:57:52 [error] 28#28: *1 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.23.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/"
+2023/11/01 11:57:53 [error] 28#28: *1 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.23.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/"
+2023/11/01 11:57:53 [error] 28#28: *1 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.23.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/"
+2023/11/01 12:00:28 [error] 28#28: *1 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.23.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/"
+2023/11/01 12:00:29 [error] 28#28: *1 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.23.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/"
+2023/11/01 12:00:30 [error] 28#28: *1 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.23.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/"
+2023/11/01 12:00:30 [error] 28#28: *1 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.23.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/"
+2023/11/01 12:00:31 [error] 28#28: *1 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.23.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/"
+2023/11/01 12:00:31 [error] 28#28: *1 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.23.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/"
+2023/11/01 12:00:33 [error] 30#30: *10 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.23.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/"
+2023/11/01 12:00:36 [error] 31#31: *11 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.23.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/"
+2023/11/01 12:00:39 [error] 31#31: *11 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.23.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/"
+2023/11/01 12:04:18 [emerg] 443#443: unknown "message" variable
+2023/11/01 12:04:30 [emerg] 446#446: unknown "message" variable
+2023/11/01 12:04:51 [error] 30#30: *4 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.23.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/"
+2023/11/01 12:04:52 [error] 30#30: *4 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.23.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/"
+2023/11/01 12:04:52 [error] 30#30: *4 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.23.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/"
+2023/11/01 12:05:11 [emerg] 457#457: unknown "message" variable
+2023/11/01 12:07:17 [error] 32#32: *9 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.23.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/"
+2023/11/01 12:07:43 [error] 32#32: *9 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.23.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/"
+2023/11/02 07:04:46 [notice] 36#36: signal process started
+2023/11/02 07:04:47 [notice] 50#50: signal process started
+2023/11/02 07:04:49 [notice] 64#64: signal process started
+2023/11/02 07:04:50 [notice] 78#78: signal process started
+2023/11/02 07:04:51 [notice] 92#92: signal process started
+2023/11/02 07:04:52 [notice] 106#106: signal process started
+2023/11/02 07:04:54 [notice] 120#120: signal process started
+2023/11/02 07:04:55 [notice] 134#134: signal process started
+2023/11/02 07:04:56 [notice] 148#148: signal process started
+2023/11/02 07:04:57 [notice] 161#161: signal process started
+2023/11/02 07:05:51 [notice] 175#175: signal process started
+2023/11/02 07:05:53 [notice] 189#189: signal process started
+2023/11/02 07:05:54 [notice] 203#203: signal process started
+2023/11/02 07:05:55 [notice] 217#217: signal process started
+2023/11/02 07:05:56 [notice] 231#231: signal process started
+2023/11/02 07:05:57 [notice] 245#245: signal process started
+2023/11/02 07:05:58 [notice] 259#259: signal process started
+2023/11/02 07:06:00 [notice] 274#274: signal process started
+2023/11/02 07:06:01 [notice] 288#288: signal process started
+2023/11/02 07:06:02 [notice] 302#302: signal process started
+2023/11/02 07:06:31 [notice] 316#316: signal process started
+2023/11/02 07:06:32 [notice] 330#330: signal process started
+2023/11/02 07:06:33 [notice] 344#344: signal process started
+2023/11/02 07:06:34 [notice] 357#357: signal process started
+2023/11/02 07:06:35 [notice] 371#371: signal process started
+2023/11/02 07:06:36 [notice] 385#385: signal process started
+2023/11/02 07:06:38 [notice] 399#399: signal process started
+2023/11/02 07:06:39 [notice] 413#413: signal process started
+2023/11/02 07:06:40 [notice] 427#427: signal process started
+2023/11/02 07:06:41 [notice] 440#440: signal process started
+2023/11/02 07:07:14 [notice] 453#453: signal process started
+2023/11/02 07:07:15 [notice] 467#467: signal process started
+2023/11/02 07:07:16 [notice] 481#481: signal process started
+2023/11/02 07:07:17 [notice] 496#496: signal process started
+2023/11/02 07:07:19 [notice] 510#510: signal process started
+2023/11/02 07:07:20 [notice] 524#524: signal process started
+2023/11/02 07:07:21 [notice] 538#538: signal process started
+2023/11/02 07:07:22 [notice] 552#552: signal process started
+2023/11/02 07:07:23 [notice] 566#566: signal process started
+2023/11/02 07:07:25 [notice] 581#581: signal process started
+2023/11/02 07:07:44 [notice] 594#594: signal process started
+2023/11/02 07:07:54 [notice] 607#607: signal process started
+2023/11/02 07:08:05 [notice] 622#622: signal process started
+2023/11/02 07:08:15 [notice] 636#636: signal process started
+2023/11/02 07:08:25 [notice] 650#650: signal process started
+2023/11/02 07:08:36 [notice] 664#664: signal process started
+2023/11/02 07:08:46 [notice] 678#678: signal process started
+2023/11/02 07:08:56 [notice] 692#692: signal process started
+2023/11/02 07:09:07 [notice] 706#706: signal process started
+2023/11/02 07:09:17 [notice] 720#720: signal process started
+2023/11/02 07:11:14 [notice] 734#734: signal process started
+2023/11/02 07:11:24 [notice] 748#748: signal process started
+2023/11/02 07:11:42 [notice] 762#762: signal process started
+2023/11/02 07:11:43 [notice] 777#777: signal process started
+2023/11/02 07:11:44 [notice] 791#791: signal process started
+2023/11/02 07:11:45 [notice] 805#805: signal process started
+2023/11/02 07:11:47 [notice] 819#819: signal process started
+2023/11/02 07:11:48 [notice] 833#833: signal process started
+2023/11/02 07:11:49 [notice] 847#847: signal process started
+2023/11/02 07:11:50 [notice] 861#861: signal process started
+2023/11/02 07:11:51 [notice] 875#875: signal process started
+2023/11/02 07:11:52 [notice] 889#889: signal process started
+2023/11/02 07:14:19 [notice] 903#903: signal process started
+2023/11/02 07:14:20 [notice] 917#917: signal process started
+2023/11/02 07:14:21 [notice] 931#931: signal process started
+2023/11/02 07:14:23 [notice] 946#946: signal process started
+2023/11/02 07:14:24 [notice] 959#959: signal process started
+2023/11/02 07:14:25 [notice] 973#973: signal process started
+2023/11/02 07:14:26 [notice] 987#987: signal process started
+2023/11/02 07:14:28 [notice] 1001#1001: signal process started
+2023/11/02 07:14:29 [notice] 1015#1015: signal process started
+2023/11/02 07:14:30 [notice] 1029#1029: signal process started
+2023/11/02 07:17:26 [notice] 1043#1043: signal process started
+2023/11/02 07:17:58 [notice] 1057#1057: signal process started
+2023/11/02 07:18:29 [notice] 1071#1071: signal process started
+2023/11/02 07:19:01 [notice] 1085#1085: signal process started
+2023/11/02 07:19:46 [emerg] 1099#1099: invalid parameter "weight=-44" in /etc/nginx/conf.d/default.conf:18
+2023/11/02 07:20:59 [notice] 1104#1104: signal process started
+2023/11/02 07:21:00 [notice] 1118#1118: signal process started
+2023/11/02 07:21:01 [notice] 1132#1132: signal process started
+2023/11/02 07:21:02 [notice] 1146#1146: signal process started
+2023/11/02 07:21:04 [notice] 1160#1160: signal process started
+2023/11/02 07:21:05 [notice] 1174#1174: signal process started
+2023/11/02 07:21:06 [notice] 1188#1188: signal process started
+2023/11/02 07:21:08 [notice] 1202#1202: signal process started
+2023/11/02 07:21:09 [notice] 1216#1216: signal process started
+2023/11/02 07:21:10 [notice] 1230#1230: signal process started
+2023/11/02 07:21:35 [notice] 1244#1244: signal process started
+2023/11/02 07:21:37 [notice] 1257#1257: signal process started
+2023/11/02 07:21:38 [notice] 1271#1271: signal process started
+2023/11/02 07:21:39 [notice] 1285#1285: signal process started
+2023/11/02 07:21:41 [notice] 1299#1299: signal process started
+2023/11/02 07:21:42 [notice] 1313#1313: signal process started
+2023/11/02 07:21:43 [notice] 1327#1327: signal process started
+2023/11/02 07:21:44 [notice] 1342#1342: signal process started
+2023/11/02 07:21:46 [notice] 1356#1356: signal process started
+2023/11/02 07:21:47 [notice] 1369#1369: signal process started
+2023/11/02 07:22:31 [emerg] 1383#1383: invalid parameter "weight=0" in /etc/nginx/conf.d/default.conf:17
+2023/11/02 07:22:32 [emerg] 1388#1388: invalid parameter "weight=0" in /etc/nginx/conf.d/default.conf:17
+2023/11/02 07:22:34 [emerg] 1393#1393: invalid parameter "weight=0" in /etc/nginx/conf.d/default.conf:17
+2023/11/02 07:22:35 [emerg] 1399#1399: invalid parameter "weight=0" in /etc/nginx/conf.d/default.conf:17
+2023/11/02 07:22:36 [emerg] 1405#1405: invalid parameter "weight=0" in /etc/nginx/conf.d/default.conf:17
+2023/11/02 07:22:38 [emerg] 1412#1412: invalid parameter "weight=0" in /etc/nginx/conf.d/default.conf:17
+2023/11/02 07:22:39 [emerg] 1418#1418: invalid parameter "weight=0" in /etc/nginx/conf.d/default.conf:17
+2023/11/02 07:22:40 [emerg] 1424#1424: invalid parameter "weight=0" in /etc/nginx/conf.d/default.conf:17
+2023/11/02 07:22:41 [emerg] 1430#1430: invalid parameter "weight=0" in /etc/nginx/conf.d/default.conf:17
+2023/11/02 07:22:42 [notice] 1435#1435: signal process started
+2023/11/02 07:22:54 [emerg] 1449#1449: invalid parameter "weight=0" in /etc/nginx/conf.d/default.conf:18
+2023/11/02 07:22:56 [emerg] 1456#1456: invalid parameter "weight=0" in /etc/nginx/conf.d/default.conf:18
+2023/11/02 07:22:57 [emerg] 1463#1463: invalid parameter "weight=0" in /etc/nginx/conf.d/default.conf:18
+2023/11/02 07:22:59 [emerg] 1475#1475: invalid parameter "weight=0" in /etc/nginx/conf.d/default.conf:18
+2023/11/02 07:23:01 [emerg] 1481#1481: invalid parameter "weight=0" in /etc/nginx/conf.d/default.conf:18
+2023/11/02 07:23:02 [emerg] 1487#1487: invalid parameter "weight=0" in /etc/nginx/conf.d/default.conf:18
+2023/11/02 07:23:03 [emerg] 1493#1493: invalid parameter "weight=0" in /etc/nginx/conf.d/default.conf:18
+2023/11/02 07:23:05 [emerg] 1498#1498: invalid parameter "weight=0" in /etc/nginx/conf.d/default.conf:18
+2023/11/02 07:23:06 [notice] 1504#1504: signal process started
+2023/11/02 07:24:00 [emerg] 1518#1518: invalid parameter "weight=0" in /etc/nginx/conf.d/default.conf:17
+2023/11/02 07:24:02 [emerg] 1524#1524: invalid parameter "weight=0" in /etc/nginx/conf.d/default.conf:17
+2023/11/02 07:24:03 [emerg] 1530#1530: invalid parameter "weight=0" in /etc/nginx/conf.d/default.conf:17
+2023/11/02 07:24:04 [emerg] 1535#1535: invalid parameter "weight=0" in /etc/nginx/conf.d/default.conf:17
+2023/11/02 07:24:06 [emerg] 1541#1541: invalid parameter "weight=0" in /etc/nginx/conf.d/default.conf:17
+2023/11/02 07:24:07 [emerg] 1547#1547: invalid parameter "weight=0" in /etc/nginx/conf.d/default.conf:17
+2023/11/02 07:24:08 [emerg] 1553#1553: invalid parameter "weight=0" in /etc/nginx/conf.d/default.conf:17
+2023/11/02 07:24:09 [emerg] 1559#1559: invalid parameter "weight=0" in /etc/nginx/conf.d/default.conf:17
+2023/11/02 07:24:11 [emerg] 1566#1566: invalid parameter "weight=0" in /etc/nginx/conf.d/default.conf:17
+2023/11/02 07:24:12 [notice] 1572#1572: signal process started
+2023/11/02 07:24:42 [emerg] 1586#1586: invalid parameter "weight=0" in /etc/nginx/conf.d/default.conf:18
+2023/11/02 07:24:43 [emerg] 1592#1592: invalid parameter "weight=0" in /etc/nginx/conf.d/default.conf:18
+2023/11/02 07:24:45 [emerg] 1598#1598: invalid parameter "weight=0" in /etc/nginx/conf.d/default.conf:18
+2023/11/02 07:24:46 [emerg] 1604#1604: invalid parameter "weight=0" in /etc/nginx/conf.d/default.conf:18
+2023/11/02 07:24:47 [emerg] 1610#1610: invalid parameter "weight=0" in /etc/nginx/conf.d/default.conf:18
+2023/11/02 07:24:49 [emerg] 1616#1616: invalid parameter "weight=0" in /etc/nginx/conf.d/default.conf:18
+2023/11/02 07:24:50 [emerg] 1622#1622: invalid parameter "weight=0" in /etc/nginx/conf.d/default.conf:18
+2023/11/02 07:24:51 [emerg] 1628#1628: invalid parameter "weight=0" in /etc/nginx/conf.d/default.conf:18
+2023/11/02 07:24:53 [emerg] 1634#1634: invalid parameter "weight=0" in /etc/nginx/conf.d/default.conf:18
+2023/11/02 07:24:54 [notice] 1641#1641: signal process started
+2023/11/02 07:26:07 [notice] 1656#1656: signal process started
+2023/11/02 07:26:08 [notice] 1670#1670: signal process started
+2023/11/02 07:26:09 [notice] 1684#1684: signal process started
+2023/11/02 07:26:11 [notice] 1698#1698: signal process started
+2023/11/02 07:26:12 [notice] 1712#1712: signal process started
+2023/11/02 07:26:13 [notice] 1726#1726: signal process started
+2023/11/02 07:26:15 [notice] 1740#1740: signal process started
+2023/11/02 07:26:16 [notice] 1754#1754: signal process started
+2023/11/02 07:26:17 [notice] 1768#1768: signal process started
+2023/11/02 07:26:18 [notice] 1782#1782: signal process started
+2023/11/02 07:27:04 [emerg] 1797#1797: invalid parameter "weight=0.09999999999999998" in /etc/nginx/conf.d/default.conf:17
+2023/11/02 07:27:05 [emerg] 1803#1803: invalid parameter "weight=0.19999999999999996" in /etc/nginx/conf.d/default.conf:17
+2023/11/02 07:27:06 [emerg] 1809#1809: invalid parameter "weight=0.29999999999999993" in /etc/nginx/conf.d/default.conf:17
+2023/11/02 07:27:07 [emerg] 1815#1815: invalid parameter "weight=0.4" in /etc/nginx/conf.d/default.conf:17
+2023/11/02 07:27:09 [emerg] 1821#1821: invalid parameter "weight=0.5" in /etc/nginx/conf.d/default.conf:17
+2023/11/02 07:27:10 [emerg] 1827#1827: invalid parameter "weight=0.6" in /etc/nginx/conf.d/default.conf:17
+2023/11/02 07:27:11 [emerg] 1833#1833: invalid parameter "weight=0.7" in /etc/nginx/conf.d/default.conf:17
+2023/11/02 07:27:13 [emerg] 1839#1839: invalid parameter "weight=0.8" in /etc/nginx/conf.d/default.conf:17
+2023/11/02 07:27:14 [emerg] 1845#1845: invalid parameter "weight=0.9" in /etc/nginx/conf.d/default.conf:17
+2023/11/02 07:27:15 [notice] 1851#1851: signal process started
+2023/11/02 07:28:19 [emerg] 1865#1865: invalid parameter "weight=0.9" in /etc/nginx/conf.d/default.conf:17
+2023/11/02 07:28:20 [emerg] 1871#1871: invalid parameter "weight=0.6" in /etc/nginx/conf.d/default.conf:17
+2023/11/02 07:28:22 [emerg] 1877#1877: invalid parameter "weight=0.3" in /etc/nginx/conf.d/default.conf:17
+2023/11/02 07:28:23 [notice] 1885#1885: signal process started
+2023/11/02 07:28:37 [emerg] 1899#1899: invalid parameter "weight=0.09999999999999998" in /etc/nginx/conf.d/default.conf:17
+2023/11/02 07:28:38 [emerg] 1905#1905: invalid parameter "weight=0.19999999999999996" in /etc/nginx/conf.d/default.conf:17
+2023/11/02 07:28:39 [emerg] 1911#1911: invalid parameter "weight=0.29999999999999993" in /etc/nginx/conf.d/default.conf:17
+2023/11/02 07:28:41 [emerg] 1918#1918: invalid parameter "weight=0.4" in /etc/nginx/conf.d/default.conf:17
+2023/11/02 07:28:42 [emerg] 1924#1924: invalid parameter "weight=0.5" in /etc/nginx/conf.d/default.conf:17
+2023/11/02 07:28:43 [emerg] 1930#1930: invalid parameter "weight=0.6" in /etc/nginx/conf.d/default.conf:17
+2023/11/02 07:28:45 [emerg] 1936#1936: invalid parameter "weight=0.7" in /etc/nginx/conf.d/default.conf:17
+2023/11/02 07:28:46 [emerg] 1942#1942: invalid parameter "weight=0.8" in /etc/nginx/conf.d/default.conf:17
+2023/11/02 07:28:47 [emerg] 1948#1948: invalid parameter "weight=0.9" in /etc/nginx/conf.d/default.conf:17
+2023/11/02 07:28:48 [notice] 1954#1954: signal process started
+2023/11/02 07:29:21 [emerg] 1968#1968: invalid parameter "weight=0" in /etc/nginx/conf.d/default.conf:17
+2023/11/02 07:29:23 [emerg] 1974#1974: invalid parameter "weight=0" in /etc/nginx/conf.d/default.conf:17
+2023/11/02 07:29:24 [emerg] 1980#1980: invalid parameter "weight=0" in /etc/nginx/conf.d/default.conf:17
+2023/11/02 07:29:25 [notice] 1986#1986: signal process started
+2023/11/02 07:29:37 [emerg] 2000#2000: invalid parameter "weight=0" in /etc/nginx/conf.d/default.conf:18
+2023/11/02 07:29:38 [emerg] 2006#2006: invalid parameter "weight=0" in /etc/nginx/conf.d/default.conf:18
+2023/11/02 07:29:40 [emerg] 2012#2012: invalid parameter "weight=0" in /etc/nginx/conf.d/default.conf:18
+2023/11/02 07:29:41 [emerg] 2018#2018: invalid parameter "weight=0" in /etc/nginx/conf.d/default.conf:18
+2023/11/02 07:29:42 [emerg] 2025#2025: invalid parameter "weight=0" in /etc/nginx/conf.d/default.conf:18
+2023/11/02 07:29:44 [emerg] 2031#2031: invalid parameter "weight=0" in /etc/nginx/conf.d/default.conf:18
+2023/11/02 07:29:45 [emerg] 2037#2037: invalid parameter "weight=0" in /etc/nginx/conf.d/default.conf:18
+2023/11/02 07:29:46 [emerg] 2044#2044: invalid parameter "weight=0" in /etc/nginx/conf.d/default.conf:18
+2023/11/02 07:29:47 [emerg] 2050#2050: invalid parameter "weight=0" in /etc/nginx/conf.d/default.conf:18
+2023/11/02 07:29:49 [notice] 2057#2057: signal process started
+2023/11/02 07:30:03 [notice] 2071#2071: signal process started
+2023/11/02 07:30:05 [notice] 2085#2085: signal process started
+2023/11/02 07:30:06 [notice] 2099#2099: signal process started
+2023/11/02 07:30:07 [notice] 2113#2113: signal process started
+2023/11/02 07:32:46 [notice] 2127#2127: signal process started
+2023/11/02 07:32:47 [notice] 2141#2141: signal process started
+2023/11/02 07:32:48 [notice] 2155#2155: signal process started
+2023/11/02 07:32:50 [notice] 2169#2169: signal process started
+2023/11/02 07:33:03 [notice] 2182#2182: signal process started
+2023/11/02 07:33:04 [notice] 2196#2196: signal process started
+2023/11/02 07:33:05 [notice] 2210#2210: signal process started
+2023/11/02 07:33:06 [notice] 2224#2224: signal process started
+2023/11/02 07:33:08 [notice] 2237#2237: signal process started
+2023/11/02 07:33:09 [notice] 2251#2251: signal process started
+2023/11/02 07:33:10 [notice] 2265#2265: signal process started
+2023/11/02 07:33:12 [notice] 2279#2279: signal process started
+2023/11/02 07:33:13 [notice] 2293#2293: signal process started
+2023/11/02 07:33:14 [notice] 2307#2307: signal process started
+2023/11/02 07:33:41 [notice] 2320#2320: signal process started
+2023/11/02 07:33:42 [notice] 2334#2334: signal process started
+2023/11/02 07:33:43 [notice] 2348#2348: signal process started
+2023/11/02 07:33:44 [notice] 2363#2363: signal process started
+2023/11/02 07:33:46 [notice] 2377#2377: signal process started
+2023/11/02 07:33:47 [notice] 2391#2391: signal process started
+2023/11/02 07:33:48 [notice] 2405#2405: signal process started
+2023/11/02 07:33:50 [notice] 2419#2419: signal process started
+2023/11/02 07:33:51 [notice] 2433#2433: signal process started
+2023/11/02 07:33:52 [notice] 2447#2447: signal process started
+2023/11/02 07:34:04 [notice] 2462#2462: signal process started
+2023/11/02 07:34:06 [notice] 2476#2476: signal process started
+2023/11/02 07:34:07 [notice] 2490#2490: signal process started
+2023/11/02 07:34:08 [notice] 2504#2504: signal process started
+2023/11/02 07:34:09 [notice] 2518#2518: signal process started
+2023/11/02 07:34:11 [notice] 2532#2532: signal process started
+2023/11/02 07:34:12 [notice] 2546#2546: signal process started
+2023/11/02 07:34:13 [notice] 2560#2560: signal process started
+2023/11/02 07:34:14 [notice] 2574#2574: signal process started
+2023/11/02 07:34:16 [notice] 2588#2588: signal process started
+2023/11/02 07:35:07 [notice] 2602#2602: signal process started
+2023/11/02 07:35:09 [notice] 2616#2616: signal process started
+2023/11/02 07:35:10 [notice] 2630#2630: signal process started
+2023/11/02 07:35:11 [notice] 2644#2644: signal process started
+2023/11/02 07:35:12 [notice] 2658#2658: signal process started
+2023/11/02 07:35:14 [notice] 2672#2672: signal process started
+2023/11/02 07:35:15 [notice] 2685#2685: signal process started
+2023/11/02 07:35:16 [notice] 2699#2699: signal process started
+2023/11/02 07:35:17 [notice] 2713#2713: signal process started
+2023/11/02 07:35:19 [notice] 2727#2727: signal process started
+2023/11/02 07:37:33 [notice] 2742#2742: signal process started
+2023/11/02 07:37:34 [notice] 2756#2756: signal process started
+2023/11/02 07:37:35 [notice] 2770#2770: signal process started
+2023/11/02 07:37:37 [notice] 2785#2785: signal process started
+2023/11/02 07:37:38 [notice] 2799#2799: signal process started
+2023/11/02 07:37:39 [notice] 2813#2813: signal process started
+2023/11/02 07:37:40 [notice] 2827#2827: signal process started
+2023/11/02 07:37:42 [notice] 2841#2841: signal process started
+2023/11/02 07:37:43 [notice] 2855#2855: signal process started
+2023/11/02 07:37:44 [notice] 2868#2868: signal process started
+2023/11/02 07:40:37 [notice] 2882#2882: signal process started
+2023/11/02 07:40:38 [notice] 2897#2897: signal process started
+2023/11/02 07:40:39 [notice] 2911#2911: signal process started
+2023/11/02 07:40:41 [notice] 2925#2925: signal process started
+2023/11/02 07:40:42 [notice] 2940#2940: signal process started
+2023/11/02 07:40:43 [notice] 2954#2954: signal process started
+2023/11/02 07:40:44 [notice] 2968#2968: signal process started
+2023/11/02 07:40:46 [notice] 2982#2982: signal process started
+2023/11/02 07:40:47 [notice] 2996#2996: signal process started
+2023/11/02 07:40:48 [notice] 3011#3011: signal process started
+2023/11/02 07:45:42 [emerg] 1#1: host not found in upstream "blue:5000" in /etc/nginx/conf.d/default.conf:17
+2023/11/02 07:45:43 [emerg] 1#1: host not found in upstream "blue:5000" in /etc/nginx/conf.d/default.conf:17
+2023/11/02 07:45:44 [emerg] 1#1: host not found in upstream "blue:5000" in /etc/nginx/conf.d/default.conf:17
+2023/11/02 07:45:45 [emerg] 1#1: host not found in upstream "blue:5000" in /etc/nginx/conf.d/default.conf:17
+2023/11/02 07:45:46 [emerg] 1#1: host not found in upstream "blue:5000" in /etc/nginx/conf.d/default.conf:17
+2023/11/02 07:45:48 [emerg] 1#1: host not found in upstream "blue:5000" in /etc/nginx/conf.d/default.conf:17
+2023/11/02 07:45:52 [emerg] 1#1: host not found in upstream "blue:5000" in /etc/nginx/conf.d/default.conf:17
+2023/11/02 07:45:59 [emerg] 1#1: host not found in upstream "blue:5000" in /etc/nginx/conf.d/default.conf:17
+2023/11/02 07:46:12 [emerg] 1#1: host not found in upstream "blue:5000" in /etc/nginx/conf.d/default.conf:17
+2023/11/02 07:47:27 [notice] 36#36: signal process started
+2023/11/02 07:47:28 [notice] 49#49: signal process started
+2023/11/02 07:47:29 [notice] 63#63: signal process started
+2023/11/02 07:47:30 [notice] 77#77: signal process started
+2023/11/02 07:47:32 [notice] 91#91: signal process started
+2023/11/02 07:47:33 [notice] 105#105: signal process started
+2023/11/02 07:47:34 [notice] 119#119: signal process started
+2023/11/02 07:47:36 [notice] 133#133: signal process started
+2023/11/02 07:47:37 [notice] 147#147: signal process started
+2023/11/02 07:47:38 [notice] 161#161: signal process started
+2023/11/02 07:51:02 [error] 167#167: *181 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 07:51:03 [error] 167#167: *181 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 07:51:03 [error] 167#167: *181 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 07:51:04 [error] 167#167: *181 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 07:51:07 [error] 167#167: *181 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 07:51:07 [error] 167#167: *181 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 07:51:08 [error] 167#167: *181 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 07:53:22 [notice] 36#36: signal process started
+2023/11/02 07:53:23 [notice] 50#50: signal process started
+2023/11/02 07:53:25 [notice] 64#64: signal process started
+2023/11/02 07:53:26 [notice] 78#78: signal process started
+2023/11/02 07:53:27 [notice] 92#92: signal process started
+2023/11/02 07:53:28 [notice] 106#106: signal process started
+2023/11/02 07:53:30 [notice] 120#120: signal process started
+2023/11/02 07:53:31 [notice] 134#134: signal process started
+2023/11/02 07:53:32 [notice] 148#148: signal process started
+2023/11/02 07:53:34 [notice] 162#162: signal process started
+2023/11/02 07:54:32 [notice] 176#176: signal process started
+2023/11/02 07:54:33 [notice] 190#190: signal process started
+2023/11/02 07:54:35 [notice] 204#204: signal process started
+2023/11/02 07:54:36 [notice] 218#218: signal process started
+2023/11/02 07:54:37 [notice] 232#232: signal process started
+2023/11/02 07:54:39 [notice] 247#247: signal process started
+2023/11/02 07:54:40 [notice] 261#261: signal process started
+2023/11/02 07:54:41 [notice] 275#275: signal process started
+2023/11/02 07:54:42 [notice] 289#289: signal process started
+2023/11/02 07:54:44 [notice] 303#303: signal process started
+2023/11/02 07:58:12 [notice] 36#36: signal process started
+2023/11/02 07:58:13 [notice] 50#50: signal process started
+2023/11/02 07:58:14 [notice] 64#64: signal process started
+2023/11/02 07:58:16 [notice] 78#78: signal process started
+2023/11/02 07:58:17 [notice] 92#92: signal process started
+2023/11/02 07:58:18 [notice] 106#106: signal process started
+2023/11/02 07:58:19 [notice] 120#120: signal process started
+2023/11/02 07:58:21 [notice] 134#134: signal process started
+2023/11/02 07:58:22 [notice] 148#148: signal process started
+2023/11/02 07:58:23 [notice] 162#162: signal process started
+2023/11/02 08:35:59 [notice] 36#36: signal process started
+2023/11/02 08:36:00 [notice] 50#50: signal process started
+2023/11/02 08:36:02 [notice] 64#64: signal process started
+2023/11/02 08:36:03 [notice] 78#78: signal process started
+2023/11/02 08:36:04 [notice] 92#92: signal process started
+2023/11/02 08:36:05 [notice] 106#106: signal process started
+2023/11/02 08:36:06 [notice] 121#121: signal process started
+2023/11/02 08:36:07 [notice] 136#136: signal process started
+2023/11/02 08:36:09 [notice] 150#150: signal process started
+2023/11/02 08:36:10 [notice] 164#164: signal process started
+2023/11/02 08:39:19 [notice] 177#177: signal process started
+2023/11/02 08:39:21 [notice] 191#191: signal process started
+2023/11/02 08:39:22 [notice] 205#205: signal process started
+2023/11/02 08:39:23 [notice] 219#219: signal process started
+2023/11/02 08:39:24 [notice] 233#233: signal process started
+2023/11/02 08:39:25 [notice] 247#247: signal process started
+2023/11/02 08:39:26 [notice] 261#261: signal process started
+2023/11/02 08:39:28 [notice] 275#275: signal process started
+2023/11/02 08:39:29 [notice] 289#289: signal process started
+2023/11/02 08:39:30 [notice] 303#303: signal process started
+2023/11/02 08:40:41 [notice] 317#317: signal process started
+2023/11/02 08:40:42 [notice] 332#332: signal process started
+2023/11/02 08:40:43 [notice] 347#347: signal process started
+2023/11/02 08:40:44 [notice] 362#362: signal process started
+2023/11/02 08:40:45 [notice] 376#376: signal process started
+2023/11/02 08:40:47 [notice] 390#390: signal process started
+2023/11/02 08:40:48 [notice] 404#404: signal process started
+2023/11/02 08:40:49 [notice] 418#418: signal process started
+2023/11/02 08:40:50 [notice] 432#432: signal process started
+2023/11/02 08:40:51 [notice] 446#446: signal process started
+2023/11/02 08:41:21 [notice] 460#460: signal process started
+2023/11/02 08:41:22 [notice] 474#474: signal process started
+2023/11/02 08:41:23 [notice] 488#488: signal process started
+2023/11/02 08:41:24 [notice] 502#502: signal process started
+2023/11/02 08:41:25 [notice] 517#517: signal process started
+2023/11/02 08:41:27 [notice] 531#531: signal process started
+2023/11/02 08:41:28 [notice] 545#545: signal process started
+2023/11/02 08:41:29 [notice] 560#560: signal process started
+2023/11/02 08:41:30 [notice] 574#574: signal process started
+2023/11/02 08:41:31 [notice] 587#587: signal process started
+2023/11/02 08:41:33 [notice] 601#601: signal process started
+2023/11/02 08:41:34 [notice] 616#616: signal process started
+2023/11/02 08:41:35 [notice] 631#631: signal process started
+2023/11/02 08:41:36 [notice] 646#646: signal process started
+2023/11/02 08:41:37 [notice] 660#660: signal process started
+2023/11/02 08:41:39 [notice] 674#674: signal process started
+2023/11/02 08:41:40 [notice] 688#688: signal process started
+2023/11/02 08:41:41 [notice] 702#702: signal process started
+2023/11/02 08:41:42 [emerg] 716#716: host not found in upstream "green:5000" in /etc/nginx/conf.d/default.conf:18
+2023/11/02 08:42:08 [emerg] 723#723: host not found in upstream "green:5000" in /etc/nginx/conf.d/default.conf:17
+2023/11/02 08:44:35 [notice] 729#729: signal process started
+2023/11/02 08:44:36 [notice] 743#743: signal process started
+2023/11/02 08:44:38 [notice] 757#757: signal process started
+2023/11/02 08:44:39 [notice] 771#771: signal process started
+2023/11/02 08:44:40 [notice] 785#785: signal process started
+2023/11/02 08:44:41 [notice] 799#799: signal process started
+2023/11/02 08:44:42 [notice] 813#813: signal process started
+2023/11/02 08:44:43 [notice] 827#827: signal process started
+2023/11/02 08:44:45 [notice] 841#841: signal process started
+2023/11/02 08:44:46 [notice] 855#855: signal process started
+2023/11/02 08:44:58 [notice] 869#869: signal process started
+2023/11/02 08:45:00 [notice] 883#883: signal process started
+2023/11/02 08:45:01 [notice] 896#896: signal process started
+2023/11/02 08:45:02 [notice] 910#910: signal process started
+2023/11/02 08:45:03 [notice] 924#924: signal process started
+2023/11/02 08:45:04 [notice] 938#938: signal process started
+2023/11/02 08:45:05 [notice] 952#952: signal process started
+2023/11/02 08:45:07 [notice] 966#966: signal process started
+2023/11/02 08:45:08 [notice] 980#980: signal process started
+2023/11/02 08:45:09 [notice] 995#995: signal process started
+2023/11/02 08:45:32 [notice] 1009#1009: signal process started
+2023/11/02 08:45:33 [notice] 1023#1023: signal process started
+2023/11/02 08:45:34 [notice] 1037#1037: signal process started
+2023/11/02 08:45:35 [notice] 1051#1051: signal process started
+2023/11/02 08:45:36 [notice] 1064#1064: signal process started
+2023/11/02 08:45:38 [notice] 1078#1078: signal process started
+2023/11/02 08:45:39 [notice] 1092#1092: signal process started
+2023/11/02 08:45:40 [notice] 1106#1106: signal process started
+2023/11/02 08:45:41 [notice] 1119#1119: signal process started
+2023/11/02 08:45:42 [notice] 1133#1133: signal process started
+2023/11/02 08:46:27 [notice] 1147#1147: signal process started
+2023/11/02 08:46:28 [notice] 1160#1160: signal process started
+2023/11/02 08:46:29 [notice] 1174#1174: signal process started
+2023/11/02 08:46:30 [notice] 1188#1188: signal process started
+2023/11/02 08:46:31 [notice] 1202#1202: signal process started
+2023/11/02 08:46:34 [notice] 1222#1222: signal process started
+2023/11/02 08:47:58 [notice] 1236#1236: signal process started
+2023/11/02 08:48:00 [notice] 1251#1251: signal process started
+2023/11/02 08:48:01 [notice] 1265#1265: signal process started
+2023/11/02 08:48:02 [notice] 1279#1279: signal process started
+2023/11/02 08:48:03 [notice] 1293#1293: signal process started
+2023/11/02 08:48:04 [notice] 1307#1307: signal process started
+2023/11/02 08:48:05 [notice] 1320#1320: signal process started
+2023/11/02 08:48:07 [notice] 1334#1334: signal process started
+2023/11/02 08:48:08 [notice] 1348#1348: signal process started
+2023/11/02 08:48:09 [notice] 1362#1362: signal process started
+2023/11/02 08:48:47 [notice] 1376#1376: signal process started
+2023/11/02 08:48:48 [notice] 1390#1390: signal process started
+2023/11/02 08:48:50 [notice] 1404#1404: signal process started
+2023/11/02 08:49:44 [notice] 1418#1418: signal process started
+2023/11/02 08:49:45 [notice] 1432#1432: signal process started
+2023/11/02 08:49:46 [notice] 1446#1446: signal process started
+2023/11/02 08:49:47 [notice] 1460#1460: signal process started
+2023/11/02 08:49:48 [notice] 1474#1474: signal process started
+2023/11/02 08:49:49 [notice] 1488#1488: signal process started
+2023/11/02 08:49:51 [notice] 1502#1502: signal process started
+2023/11/02 08:49:52 [notice] 1516#1516: signal process started
+2023/11/02 08:49:53 [notice] 1530#1530: signal process started
+2023/11/02 08:49:54 [notice] 1544#1544: signal process started
+2023/11/02 08:51:41 [notice] 1558#1558: signal process started
+2023/11/02 08:51:43 [notice] 1572#1572: signal process started
+2023/11/02 08:51:44 [notice] 1586#1586: signal process started
+2023/11/02 08:51:45 [notice] 1600#1600: signal process started
+2023/11/02 08:51:46 [notice] 1614#1614: signal process started
+2023/11/02 08:51:47 [notice] 1627#1627: signal process started
+2023/11/02 08:51:48 [notice] 1640#1640: signal process started
+2023/11/02 08:51:50 [notice] 1654#1654: signal process started
+2023/11/02 08:51:51 [notice] 1669#1669: signal process started
+2023/11/02 08:51:52 [notice] 1682#1682: signal process started
+2023/11/02 08:52:44 [notice] 1695#1695: signal process started
+2023/11/02 08:52:45 [notice] 1708#1708: signal process started
+2023/11/02 08:52:46 [notice] 1722#1722: signal process started
+2023/11/02 08:52:47 [notice] 1736#1736: signal process started
+2023/11/02 08:52:48 [notice] 1750#1750: signal process started
+2023/11/02 08:52:50 [notice] 1764#1764: signal process started
+2023/11/02 08:52:51 [notice] 1778#1778: signal process started
+2023/11/02 08:52:52 [notice] 1792#1792: signal process started
+2023/11/02 08:52:53 [notice] 1806#1806: signal process started
+2023/11/02 08:52:54 [notice] 1820#1820: signal process started
+2023/11/02 08:53:06 [notice] 1834#1834: signal process started
+2023/11/02 08:53:07 [notice] 1848#1848: signal process started
+2023/11/02 08:53:08 [notice] 1863#1863: signal process started
+2023/11/02 08:53:10 [notice] 1876#1876: signal process started
+2023/11/02 08:53:11 [notice] 1890#1890: signal process started
+2023/11/02 08:53:12 [notice] 1904#1904: signal process started
+2023/11/02 08:53:13 [notice] 1918#1918: signal process started
+2023/11/02 08:53:14 [notice] 1932#1932: signal process started
+2023/11/02 08:53:15 [notice] 1946#1946: signal process started
+2023/11/02 08:53:17 [notice] 1960#1960: signal process started
+2023/11/02 08:54:17 [notice] 1974#1974: signal process started
+2023/11/02 08:54:18 [notice] 1988#1988: signal process started
+2023/11/02 08:54:19 [notice] 2002#2002: signal process started
+2023/11/02 08:54:20 [notice] 2016#2016: signal process started
+2023/11/02 08:54:21 [notice] 2030#2030: signal process started
+2023/11/02 08:54:23 [notice] 2045#2045: signal process started
+2023/11/02 08:54:24 [notice] 2059#2059: signal process started
+2023/11/02 08:54:25 [notice] 2073#2073: signal process started
+2023/11/02 08:54:26 [notice] 2087#2087: signal process started
+2023/11/02 08:54:27 [notice] 2101#2101: signal process started
+2023/11/02 08:55:01 [notice] 2115#2115: signal process started
+2023/11/02 08:55:02 [notice] 2128#2128: signal process started
+2023/11/02 08:55:03 [notice] 2142#2142: signal process started
+2023/11/02 08:55:04 [notice] 2156#2156: signal process started
+2023/11/02 08:55:05 [notice] 2170#2170: signal process started
+2023/11/02 08:55:07 [notice] 2185#2185: signal process started
+2023/11/02 08:55:08 [notice] 2198#2198: signal process started
+2023/11/02 08:55:09 [notice] 2211#2211: signal process started
+2023/11/02 08:55:10 [notice] 2225#2225: signal process started
+2023/11/02 08:55:11 [notice] 2238#2238: signal process started
+2023/11/02 08:55:24 [notice] 2253#2253: signal process started
+2023/11/02 08:55:25 [notice] 2267#2267: signal process started
+2023/11/02 08:55:27 [notice] 2282#2282: signal process started
+2023/11/02 08:55:28 [notice] 2296#2296: signal process started
+2023/11/02 08:55:29 [notice] 2310#2310: signal process started
+2023/11/02 08:55:30 [notice] 2323#2323: signal process started
+2023/11/02 08:55:31 [notice] 2337#2337: signal process started
+2023/11/02 08:55:32 [notice] 2351#2351: signal process started
+2023/11/02 08:55:34 [notice] 2365#2365: signal process started
+2023/11/02 08:55:35 [notice] 2379#2379: signal process started
+2023/11/02 08:55:55 [notice] 2393#2393: signal process started
+2023/11/02 08:55:56 [notice] 2407#2407: signal process started
+2023/11/02 08:55:57 [notice] 2421#2421: signal process started
+2023/11/02 08:55:58 [notice] 2435#2435: signal process started
+2023/11/02 08:56:00 [notice] 2449#2449: signal process started
+2023/11/02 08:56:01 [notice] 2463#2463: signal process started
+2023/11/02 08:56:02 [notice] 2477#2477: signal process started
+2023/11/02 08:56:03 [notice] 2491#2491: signal process started
+2023/11/02 08:56:04 [notice] 2506#2506: signal process started
+2023/11/02 08:56:05 [notice] 2521#2521: signal process started
+2023/11/02 09:02:29 [notice] 36#36: signal process started
+2023/11/02 09:02:30 [notice] 49#49: signal process started
+2023/11/02 09:02:31 [notice] 63#63: signal process started
+2023/11/02 09:02:33 [notice] 77#77: signal process started
+2023/11/02 09:02:34 [notice] 90#90: signal process started
+2023/11/02 09:02:35 [notice] 104#104: signal process started
+2023/11/02 09:02:36 [notice] 118#118: signal process started
+2023/11/02 09:02:37 [notice] 131#131: signal process started
+2023/11/02 09:02:38 [notice] 145#145: signal process started
+2023/11/02 09:02:40 [notice] 159#159: signal process started
+2023/11/02 09:05:36 [notice] 36#36: signal process started
+2023/11/02 09:05:38 [notice] 50#50: signal process started
+2023/11/02 09:05:39 [notice] 65#65: signal process started
+2023/11/02 09:05:40 [notice] 79#79: signal process started
+2023/11/02 09:05:41 [notice] 93#93: signal process started
+2023/11/02 09:05:42 [notice] 107#107: signal process started
+2023/11/02 09:05:43 [notice] 121#121: signal process started
+2023/11/02 09:05:45 [notice] 135#135: signal process started
+2023/11/02 09:05:46 [notice] 148#148: signal process started
+2023/11/02 09:05:47 [notice] 162#162: signal process started
+2023/11/02 09:06:42 [notice] 176#176: signal process started
+2023/11/02 09:06:44 [notice] 190#190: signal process started
+2023/11/02 09:06:45 [notice] 204#204: signal process started
+2023/11/02 09:06:46 [notice] 219#219: signal process started
+2023/11/02 09:06:47 [notice] 233#233: signal process started
+2023/11/02 09:06:48 [notice] 247#247: signal process started
+2023/11/02 09:06:49 [notice] 261#261: signal process started
+2023/11/02 09:06:50 [notice] 276#276: signal process started
+2023/11/02 09:06:52 [notice] 290#290: signal process started
+2023/11/02 09:06:53 [notice] 304#304: signal process started
+2023/11/02 09:42:47 [notice] 36#36: signal process started
+2023/11/02 09:42:48 [notice] 50#50: signal process started
+2023/11/02 09:42:50 [notice] 64#64: signal process started
+2023/11/02 09:42:51 [notice] 78#78: signal process started
+2023/11/02 09:42:52 [notice] 92#92: signal process started
+2023/11/02 09:42:53 [notice] 106#106: signal process started
+2023/11/02 09:42:54 [notice] 120#120: signal process started
+2023/11/02 09:42:55 [notice] 134#134: signal process started
+2023/11/02 09:42:57 [notice] 148#148: signal process started
+2023/11/02 09:42:58 [notice] 163#163: signal process started
+2023/11/02 09:43:17 [notice] 177#177: signal process started
+2023/11/02 09:43:19 [notice] 191#191: signal process started
+2023/11/02 09:43:20 [notice] 205#205: signal process started
+2023/11/02 09:43:21 [notice] 219#219: signal process started
+2023/11/02 09:43:22 [notice] 233#233: signal process started
+2023/11/02 09:43:23 [notice] 247#247: signal process started
+2023/11/02 09:43:25 [notice] 261#261: signal process started
+2023/11/02 09:43:26 [notice] 275#275: signal process started
+2023/11/02 09:43:27 [notice] 289#289: signal process started
+2023/11/02 09:43:28 [notice] 303#303: signal process started
+2023/11/02 09:44:36 [notice] 317#317: signal process started
+2023/11/02 09:44:37 [notice] 332#332: signal process started
+2023/11/02 09:44:38 [notice] 346#346: signal process started
+2023/11/02 09:44:39 [notice] 360#360: signal process started
+2023/11/02 09:44:41 [notice] 374#374: signal process started
+2023/11/02 09:44:42 [notice] 388#388: signal process started
+2023/11/02 09:44:43 [notice] 402#402: signal process started
+2023/11/02 09:44:44 [notice] 416#416: signal process started
+2023/11/02 09:44:45 [notice] 430#430: signal process started
+2023/11/02 09:44:46 [notice] 444#444: signal process started
+2023/11/02 09:45:47 [notice] 458#458: signal process started
+2023/11/02 09:45:48 [notice] 472#472: signal process started
+2023/11/02 09:45:50 [notice] 486#486: signal process started
+2023/11/02 09:45:51 [notice] 500#500: signal process started
+2023/11/02 09:45:52 [notice] 514#514: signal process started
+2023/11/02 09:45:53 [notice] 528#528: signal process started
+2023/11/02 09:45:54 [notice] 542#542: signal process started
+2023/11/02 09:45:55 [notice] 557#557: signal process started
+2023/11/02 09:45:57 [notice] 571#571: signal process started
+2023/11/02 09:45:58 [notice] 585#585: signal process started
+2023/11/02 09:46:12 [notice] 599#599: signal process started
+2023/11/02 09:46:13 [notice] 613#613: signal process started
+2023/11/02 09:46:14 [notice] 628#628: signal process started
+2023/11/02 09:46:15 [notice] 642#642: signal process started
+2023/11/02 09:46:16 [notice] 655#655: signal process started
+2023/11/02 09:46:17 [notice] 669#669: signal process started
+2023/11/02 09:46:19 [notice] 683#683: signal process started
+2023/11/02 09:46:20 [notice] 697#697: signal process started
+2023/11/02 09:46:21 [notice] 711#711: signal process started
+2023/11/02 09:46:22 [notice] 725#725: signal process started
+2023/11/02 09:47:11 [notice] 739#739: signal process started
+2023/11/02 09:47:12 [notice] 753#753: signal process started
+2023/11/02 09:47:13 [notice] 767#767: signal process started
+2023/11/02 09:47:14 [notice] 781#781: signal process started
+2023/11/02 09:47:15 [notice] 796#796: signal process started
+2023/11/02 09:47:17 [notice] 810#810: signal process started
+2023/11/02 09:47:18 [notice] 824#824: signal process started
+2023/11/02 09:47:19 [notice] 837#837: signal process started
+2023/11/02 09:47:20 [notice] 851#851: signal process started
+2023/11/02 09:47:21 [notice] 866#866: signal process started
+2023/11/02 09:59:25 [notice] 880#880: signal process started
+2023/11/02 09:59:26 [notice] 894#894: signal process started
+2023/11/02 09:59:27 [notice] 908#908: signal process started
+2023/11/02 09:59:28 [notice] 922#922: signal process started
+2023/11/02 09:59:29 [notice] 936#936: signal process started
+2023/11/02 09:59:31 [notice] 951#951: signal process started
+2023/11/02 09:59:32 [notice] 965#965: signal process started
+2023/11/02 09:59:33 [notice] 979#979: signal process started
+2023/11/02 09:59:34 [notice] 993#993: signal process started
+2023/11/02 09:59:35 [notice] 1007#1007: signal process started
+2023/11/02 10:35:27 [notice] 36#36: signal process started
+2023/11/02 10:35:28 [notice] 50#50: signal process started
+2023/11/02 10:35:29 [notice] 65#65: signal process started
+2023/11/02 10:35:30 [notice] 79#79: signal process started
+2023/11/02 10:35:32 [notice] 93#93: signal process started
+2023/11/02 10:35:33 [notice] 107#107: signal process started
+2023/11/02 10:35:34 [notice] 121#121: signal process started
+2023/11/02 10:35:35 [notice] 135#135: signal process started
+2023/11/02 10:35:36 [notice] 149#149: signal process started
+2023/11/02 10:35:38 [notice] 163#163: signal process started
+2023/11/02 10:36:03 [notice] 177#177: signal process started
+2023/11/02 10:36:04 [notice] 190#190: signal process started
+2023/11/02 10:36:05 [notice] 205#205: signal process started
+2023/11/02 10:36:06 [notice] 219#219: signal process started
+2023/11/02 10:36:07 [notice] 234#234: signal process started
+2023/11/02 10:36:08 [notice] 248#248: signal process started
+2023/11/02 10:36:10 [notice] 262#262: signal process started
+2023/11/02 10:36:11 [notice] 276#276: signal process started
+2023/11/02 10:36:12 [notice] 290#290: signal process started
+2023/11/02 10:36:13 [notice] 304#304: signal process started
+2023/11/02 10:37:06 [notice] 36#36: signal process started
+2023/11/02 10:37:07 [notice] 50#50: signal process started
+2023/11/02 10:37:08 [notice] 63#63: signal process started
+2023/11/02 10:37:10 [notice] 77#77: signal process started
+2023/11/02 10:37:11 [notice] 91#91: signal process started
+2023/11/02 10:37:12 [notice] 105#105: signal process started
+2023/11/02 10:37:14 [notice] 118#118: signal process started
+2023/11/02 10:37:15 [notice] 132#132: signal process started
+2023/11/02 10:37:16 [notice] 146#146: signal process started
+2023/11/02 10:37:17 [notice] 160#160: signal process started
+2023/11/02 10:42:51 [notice] 37#37: signal process started
+2023/11/02 10:42:52 [notice] 51#51: signal process started
+2023/11/02 10:42:53 [notice] 64#64: signal process started
+2023/11/02 10:42:54 [notice] 78#78: signal process started
+2023/11/02 10:42:56 [notice] 91#91: signal process started
+2023/11/02 10:42:57 [notice] 104#104: signal process started
+2023/11/02 10:42:58 [notice] 117#117: signal process started
+2023/11/02 10:42:59 [notice] 131#131: signal process started
+2023/11/02 10:43:01 [notice] 144#144: signal process started
+2023/11/02 10:43:02 [notice] 158#158: signal process started
+2023/11/02 10:45:32 [notice] 36#36: signal process started
+2023/11/02 10:45:34 [notice] 50#50: signal process started
+2023/11/02 10:45:35 [notice] 64#64: signal process started
+2023/11/02 10:45:36 [notice] 78#78: signal process started
+2023/11/02 10:45:38 [notice] 92#92: signal process started
+2023/11/02 10:45:39 [notice] 106#106: signal process started
+2023/11/02 10:45:40 [notice] 120#120: signal process started
+2023/11/02 10:45:41 [notice] 134#134: signal process started
+2023/11/02 10:45:43 [notice] 148#148: signal process started
+2023/11/02 10:45:44 [notice] 162#162: signal process started
+2023/11/02 10:45:56 [notice] 176#176: signal process started
+2023/11/02 10:45:58 [notice] 190#190: signal process started
+2023/11/02 10:45:59 [notice] 204#204: signal process started
+2023/11/02 10:46:00 [notice] 218#218: signal process started
+2023/11/02 10:46:01 [notice] 232#232: signal process started
+2023/11/02 10:46:02 [notice] 246#246: signal process started
+2023/11/02 10:46:04 [notice] 260#260: signal process started
+2023/11/02 10:46:05 [notice] 274#274: signal process started
+2023/11/02 10:46:06 [notice] 287#287: signal process started
+2023/11/02 10:46:07 [notice] 302#302: signal process started
+2023/11/02 10:46:20 [notice] 315#315: signal process started
+2023/11/02 10:46:22 [notice] 329#329: signal process started
+2023/11/02 10:46:23 [notice] 342#342: signal process started
+2023/11/02 10:46:24 [notice] 355#355: signal process started
+2023/11/02 10:46:26 [notice] 370#370: signal process started
+2023/11/02 10:46:27 [notice] 383#383: signal process started
+2023/11/02 10:46:28 [notice] 397#397: signal process started
+2023/11/02 10:46:29 [notice] 411#411: signal process started
+2023/11/02 10:46:31 [notice] 425#425: signal process started
+2023/11/02 10:46:32 [notice] 439#439: signal process started
+2023/11/02 10:46:57 [notice] 453#453: signal process started
+2023/11/02 10:46:58 [notice] 467#467: signal process started
+2023/11/02 10:47:00 [notice] 481#481: signal process started
+2023/11/02 10:47:01 [notice] 495#495: signal process started
+2023/11/02 10:47:02 [notice] 509#509: signal process started
+2023/11/02 10:47:03 [notice] 522#522: signal process started
+2023/11/02 10:47:04 [notice] 536#536: signal process started
+2023/11/02 10:47:06 [notice] 549#549: signal process started
+2023/11/02 10:47:07 [notice] 563#563: signal process started
+2023/11/02 10:47:08 [notice] 577#577: signal process started
+2023/11/02 11:00:31 [notice] 591#591: signal process started
+2023/11/02 11:01:03 [notice] 605#605: signal process started
+2023/11/02 11:01:34 [notice] 619#619: signal process started
+2023/11/02 11:02:06 [notice] 633#633: signal process started
+2023/11/02 11:02:37 [notice] 647#647: signal process started
+2023/11/02 11:03:09 [notice] 661#661: signal process started
+2023/11/02 11:03:40 [notice] 675#675: signal process started
+2023/11/02 11:03:51 [error] 684#684: *201 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:03:53 [error] 684#684: *201 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:03:54 [error] 684#684: *201 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:03:54 [error] 684#684: *201 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:03:55 [error] 684#684: *201 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:03:55 [error] 684#684: *201 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:03:56 [error] 684#684: *201 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:03:56 [error] 684#684: *201 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:03:56 [error] 684#684: *201 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:03:57 [error] 684#684: *201 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:03:57 [error] 684#684: *201 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:03:57 [error] 684#684: *201 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:03:58 [error] 684#684: *201 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:03:58 [error] 684#684: *201 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:03:59 [error] 684#684: *201 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:03:59 [error] 684#684: *201 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:04:00 [error] 684#684: *201 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:04:00 [error] 684#684: *201 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:04:00 [error] 684#684: *201 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:04:01 [error] 684#684: *201 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:04:01 [error] 684#684: *201 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:04:02 [error] 684#684: *201 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:04:02 [error] 684#684: *201 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:04:03 [error] 684#684: *201 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:04:03 [error] 684#684: *201 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:04:03 [error] 684#684: *201 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:04:04 [error] 684#684: *201 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:04:04 [error] 684#684: *201 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:04:04 [error] 684#684: *201 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:04:05 [error] 684#684: *201 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:04:06 [error] 684#684: *201 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:04:06 [error] 684#684: *201 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:04:06 [error] 684#684: *201 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:04:07 [error] 684#684: *201 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:04:08 [error] 684#684: *201 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:04:08 [error] 684#684: *201 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:04:08 [error] 684#684: *201 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:04:09 [error] 684#684: *201 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:04:09 [error] 684#684: *201 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:04:09 [error] 684#684: *201 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:04:10 [error] 684#684: *201 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:04:10 [error] 684#684: *201 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:04:10 [error] 684#684: *201 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:04:11 [error] 684#684: *201 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:04:11 [error] 684#684: *201 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:04:11 [error] 684#684: *201 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:04:12 [error] 684#684: *201 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:04:12 [notice] 689#689: signal process started
+2023/11/02 11:04:12 [error] 684#684: *201 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:04:12 [error] 701#701: *265 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:04:12 [error] 701#701: *265 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:04:13 [error] 701#701: *265 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:04:43 [error] 701#701: *265 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:04:43 [error] 701#701: *265 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:04:43 [notice] 703#703: signal process started
+2023/11/02 11:04:44 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:04:44 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:04:44 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:04:45 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:04:45 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:04:45 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:04:45 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:04:48 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:04:48 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:04:48 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:04:49 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:04:49 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:04:49 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:04:49 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:04:50 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:04:50 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:04:50 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:04:51 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:04:51 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:04:51 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:04:52 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:04:52 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:04:52 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:04:52 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:04:52 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:04:53 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:04:53 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:04:53 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:04:53 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:04:54 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:04:54 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:04:54 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:04:54 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:04:54 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:04:55 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:04:55 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:04:55 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:04:57 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:04:57 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:04:57 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:04:58 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:04:58 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:04:58 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:04:59 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:04:59 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:04:59 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:05:00 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:05:01 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:05:01 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:05:02 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:05:02 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:05:02 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:05:03 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:05:03 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:05:03 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:05:03 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:05:04 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:05:05 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:05:05 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:05:05 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:05:05 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:05:06 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:05:06 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:05:06 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:05:06 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:05:07 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:05:07 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:05:08 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:05:08 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:05:08 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:05:08 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:05:09 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:05:09 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:05:09 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:05:09 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:05:10 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:05:10 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:05:11 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:05:11 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:05:11 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:05:11 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:05:12 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:05:12 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:05:12 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:05:13 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:05:14 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:05:14 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:05:14 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:05:14 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:05:15 [notice] 717#717: signal process started
+2023/11/02 11:05:15 [error] 709#709: *292 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:05:15 [error] 724#724: *402 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:05:15 [error] 724#724: *402 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:05:16 [error] 724#724: *402 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:05:16 [error] 724#724: *402 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:05:17 [error] 724#724: *402 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:05:17 [error] 724#724: *402 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:05:17 [error] 724#724: *402 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:05:17 [error] 724#724: *402 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:05:17 [error] 724#724: *402 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:05:18 [error] 724#724: *402 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:08:55 [notice] 731#731: signal process started
+2023/11/02 11:09:21 [notice] 745#745: signal process started
+2023/11/02 11:13:34 [notice] 759#759: signal process started
+2023/11/02 11:13:59 [notice] 773#773: signal process started
+2023/11/02 11:14:25 [notice] 787#787: signal process started
+2023/11/02 11:14:50 [notice] 801#801: signal process started
+2023/11/02 11:15:16 [notice] 815#815: signal process started
+2023/11/02 11:15:41 [notice] 828#828: signal process started
+2023/11/02 11:16:07 [notice] 842#842: signal process started
+2023/11/02 11:16:32 [notice] 857#857: signal process started
+2023/11/02 11:16:57 [emerg] 871#871: invalid parameter "weight=0" in /etc/nginx/conf.d/default.conf:18
+2023/11/02 11:17:23 [notice] 876#876: signal process started
+2023/11/02 11:21:24 [notice] 890#890: signal process started
+2023/11/02 11:21:49 [notice] 904#904: signal process started
+2023/11/02 11:22:15 [notice] 918#918: signal process started
+2023/11/02 11:22:28 [error] 930#930: *750 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:22:31 [error] 930#930: *750 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:22:31 [error] 930#930: *750 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:22:32 [error] 930#930: *750 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:22:32 [error] 930#930: *750 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:22:32 [error] 930#930: *750 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:22:33 [error] 930#930: *750 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:22:33 [error] 930#930: *750 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:22:34 [error] 930#930: *750 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:22:34 [error] 930#930: *750 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:22:35 [error] 930#930: *750 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:22:35 [error] 930#930: *750 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:22:35 [error] 930#930: *750 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:22:36 [error] 930#930: *750 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:22:36 [error] 930#930: *750 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:22:36 [error] 930#930: *750 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:22:37 [error] 930#930: *750 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:22:37 [error] 930#930: *750 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:22:37 [error] 930#930: *750 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:22:37 [error] 930#930: *750 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:22:38 [error] 930#930: *750 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:22:39 [error] 930#930: *750 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:22:40 [error] 930#930: *750 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:22:40 [error] 930#930: *750 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:22:40 [notice] 932#932: signal process started
+2023/11/02 11:22:40 [error] 938#938: *786 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:22:41 [error] 938#938: *786 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:22:41 [error] 938#938: *786 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:22:42 [error] 938#938: *786 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:22:43 [error] 938#938: *786 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:22:43 [error] 938#938: *786 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:22:44 [error] 938#938: *786 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:22:44 [error] 938#938: *786 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:22:45 [error] 938#938: *786 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:22:45 [error] 938#938: *786 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:22:45 [error] 938#938: *786 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/02 11:23:06 [notice] 946#946: signal process started
+2023/11/02 11:23:31 [notice] 960#960: signal process started
+2023/11/02 11:23:56 [notice] 974#974: signal process started
+2023/11/02 11:24:22 [notice] 989#989: signal process started
+2023/11/02 11:24:47 [notice] 1003#1003: signal process started
+2023/11/02 11:25:33 [notice] 1017#1017: signal process started
+2023/11/02 11:33:46 [notice] 1031#1031: signal process started
+2023/11/02 11:34:11 [notice] 1044#1044: signal process started
+2023/11/02 11:35:01 [notice] 1058#1058: signal process started
+2023/11/02 11:35:06 [notice] 1072#1072: signal process started
+2023/11/02 11:37:27 [notice] 1086#1086: signal process started
+2023/11/02 11:45:17 [notice] 36#36: signal process started
+2023/11/02 11:45:45 [notice] 50#50: signal process started
+2023/11/02 11:46:08 [emerg] 64#64: invalid parameter "weight=0" in /etc/nginx/conf.d/default.conf:18
+2023/11/02 11:46:14 [notice] 70#70: signal process started
+2023/11/02 11:48:08 [notice] 84#84: signal process started
+2023/11/02 11:48:35 [notice] 98#98: signal process started
+2023/11/02 11:48:51 [notice] 111#111: signal process started
+2023/11/02 11:49:02 [emerg] 125#125: host not found in upstream "blue:5000" in /etc/nginx/conf.d/default.conf:17
+2023/11/02 11:50:58 [notice] 131#131: signal process started
+2023/11/02 11:51:17 [notice] 145#145: signal process started
+2023/11/03 07:16:01 [emerg] 1#1: host not found in upstream "green:5000" in /etc/nginx/conf.d/default.conf:17
+2023/11/03 07:16:01 [emerg] 1#1: host not found in upstream "green:5000" in /etc/nginx/conf.d/default.conf:17
+2023/11/03 07:16:02 [emerg] 1#1: host not found in upstream "green:5000" in /etc/nginx/conf.d/default.conf:17
+2023/11/03 07:16:03 [emerg] 1#1: host not found in upstream "green:5000" in /etc/nginx/conf.d/default.conf:17
+2023/11/03 07:16:04 [emerg] 1#1: host not found in upstream "green:5000" in /etc/nginx/conf.d/default.conf:17
+2023/11/03 07:16:06 [emerg] 1#1: host not found in upstream "green:5000" in /etc/nginx/conf.d/default.conf:17
+2023/11/03 07:16:10 [emerg] 1#1: host not found in upstream "green:5000" in /etc/nginx/conf.d/default.conf:17
+2023/11/03 07:16:17 [emerg] 1#1: host not found in upstream "green:5000" in /etc/nginx/conf.d/default.conf:17
+2023/11/03 07:16:30 [emerg] 1#1: host not found in upstream "green:5000" in /etc/nginx/conf.d/default.conf:17
+2023/11/03 07:16:56 [emerg] 1#1: host not found in upstream "green:5000" in /etc/nginx/conf.d/default.conf:17
+2023/11/03 07:17:48 [emerg] 1#1: host not found in upstream "green:5000" in /etc/nginx/conf.d/default.conf:17
+2023/11/03 07:18:49 [emerg] 1#1: host not found in upstream "green:5000" in /etc/nginx/conf.d/default.conf:17
+2023/11/03 07:26:45 [emerg] 1#1: host not found in upstream "green:5000" in /etc/nginx/conf.d/default.conf:17
+2023/11/03 07:26:46 [emerg] 1#1: host not found in upstream "green:5000" in /etc/nginx/conf.d/default.conf:17
+2023/11/03 07:26:47 [emerg] 1#1: host not found in upstream "green:5000" in /etc/nginx/conf.d/default.conf:17
+2023/11/03 07:26:48 [emerg] 1#1: host not found in upstream "green:5000" in /etc/nginx/conf.d/default.conf:17
+2023/11/03 07:26:49 [emerg] 1#1: host not found in upstream "green:5000" in /etc/nginx/conf.d/default.conf:17
+2023/11/03 07:26:51 [emerg] 1#1: host not found in upstream "green:5000" in /etc/nginx/conf.d/default.conf:17
+2023/11/03 07:26:55 [emerg] 1#1: host not found in upstream "green:5000" in /etc/nginx/conf.d/default.conf:17
+2023/11/03 07:27:02 [emerg] 1#1: host not found in upstream "green:5000" in /etc/nginx/conf.d/default.conf:17
+2023/11/03 07:27:15 [emerg] 1#1: host not found in upstream "green:5000" in /etc/nginx/conf.d/default.conf:17
+2023/11/03 07:27:41 [emerg] 1#1: host not found in upstream "green:5000" in /etc/nginx/conf.d/default.conf:17
+2023/11/03 07:28:33 [emerg] 1#1: host not found in upstream "green:5000" in /etc/nginx/conf.d/default.conf:17
+2023/11/03 07:29:33 [emerg] 1#1: host not found in upstream "green:5000" in /etc/nginx/conf.d/default.conf:17
+2023/11/03 07:30:34 [emerg] 1#1: host not found in upstream "green:5000" in /etc/nginx/conf.d/default.conf:17
+2023/11/03 07:35:19 [error] 29#29: *1 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.20.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/03 07:36:20 [error] 29#29: *1 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.20.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/03 07:36:20 [error] 29#29: *1 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.20.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/03 07:36:21 [error] 29#29: *1 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.20.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/03 07:36:30 [error] 29#29: *1 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.20.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/03 07:36:31 [error] 29#29: *1 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.20.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/03 07:36:38 [error] 29#29: *1 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.20.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/03 07:36:38 [error] 29#29: *1 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.20.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/03 07:36:44 [error] 29#29: *1 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.20.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/03 07:36:44 [error] 29#29: *1 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.20.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/03 07:52:48 [error] 28#28: *1 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.20.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/03 07:52:49 [error] 28#28: *1 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.20.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/03 07:52:49 [error] 28#28: *1 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.20.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/03 07:53:11 [error] 28#28: *1 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.20.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/03 07:55:44 [error] 28#28: *1 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.22.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/03 07:56:59 [error] 30#30: *4 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.22.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/03 07:57:00 [error] 30#30: *4 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.22.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/03 07:57:00 [error] 30#30: *4 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.22.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/03 07:57:01 [error] 30#30: *4 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.22.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/03 08:00:56 [error] 31#31: *11 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.22.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/03 08:02:37 [error] 35#35: *14 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.22.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/03 08:09:56 [error] 28#28: *1 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.22.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/03 08:09:56 [error] 28#28: *1 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.22.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/03 08:09:56 [error] 28#28: *1 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.22.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/03 08:09:56 [error] 28#28: *1 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.22.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/03 08:09:57 [error] 28#28: *1 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.22.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/03 08:09:57 [error] 28#28: *1 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.22.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/03 08:12:10 [error] 28#28: *1 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.22.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/03 08:12:10 [error] 28#28: *1 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.22.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/03 08:12:10 [error] 28#28: *1 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.22.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/03 08:13:42 [error] 30#30: *6 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.22.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/03 08:13:43 [error] 30#30: *6 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.22.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/03 08:13:58 [error] 30#30: *6 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.22.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/03 08:14:31 [error] 29#29: *1 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.22.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/03 08:27:14 [error] 28#28: *1 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.24.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/03 08:32:53 [emerg] 1#1: host not found in upstream "blue:5000" in /etc/nginx/conf.d/default.conf:17
+2023/11/03 08:53:00 [notice] 36#36: signal process started
+2023/11/03 08:53:16 [notice] 51#51: signal process started
+2023/11/03 08:53:28 [notice] 65#65: signal process started
+2023/11/03 08:55:26 [notice] 79#79: signal process started
+2023/11/03 08:55:37 [notice] 93#93: signal process started
+2023/11/03 08:55:48 [notice] 108#108: signal process started
+2023/11/03 08:57:43 [notice] 122#122: signal process started
+2023/11/03 08:58:29 [notice] 137#137: signal process started
+2023/11/03 08:58:39 [notice] 151#151: signal process started
+2023/11/03 08:58:50 [emerg] 165#165: invalid parameter "weight=0" in /etc/nginx/conf.d/default.conf:17
+2023/11/03 08:59:13 [emerg] 171#171: host not found in upstream "blue:5000" in /etc/nginx/conf.d/default.conf:17
+2023/11/03 08:59:24 [emerg] 177#177: host not found in upstream "blue:5000" in /etc/nginx/conf.d/default.conf:17
+2023/11/03 09:00:20 [emerg] 183#183: host not found in upstream "blue:5000" in /etc/nginx/conf.d/default.conf:17
+2023/11/03 09:01:06 [notice] 188#188: signal process started
+2023/11/03 09:08:14 [notice] 202#202: signal process started
+2023/11/03 09:17:15 [notice] 216#216: signal process started
+2023/11/03 09:17:27 [emerg] 230#230: host not found in upstream "green:5000" in /etc/nginx/conf.d/default.conf:18
+2023/11/03 09:19:30 [emerg] 236#236: host not found in upstream "green:5000" in /etc/nginx/conf.d/default.conf:18
+2023/11/03 09:20:30 [emerg] 243#243: host not found in upstream "green:5000" in /etc/nginx/conf.d/default.conf:18
+2023/11/03 09:20:48 [emerg] 249#249: host not found in upstream "green:5000" in /etc/nginx/conf.d/default.conf:18
+2023/11/03 09:21:21 [emerg] 255#255: host not found in upstream "green:5000" in /etc/nginx/conf.d/default.conf:18
+2023/11/03 09:22:11 [emerg] 260#260: host not found in upstream "green:5000" in /etc/nginx/conf.d/default.conf:18
+2023/11/03 09:26:17 [emerg] 266#266: host not found in upstream "green:5000" in /etc/nginx/conf.d/default.conf:18
+2023/11/03 09:26:48 [emerg] 272#272: host not found in upstream "green:5000" in /etc/nginx/conf.d/default.conf:18
+2023/11/03 09:27:13 [emerg] 278#278: host not found in upstream "green:5000" in /etc/nginx/conf.d/default.conf:18
+2023/11/03 09:28:01 [notice] 284#284: signal process started
+2023/11/03 09:28:32 [error] 290#290: *4 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.22.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/03 09:28:33 [error] 290#290: *4 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.22.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/03 09:28:33 [error] 290#290: *4 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.22.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/03 09:28:34 [error] 290#290: *4 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.22.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/03 09:28:34 [error] 290#290: *4 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.22.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/03 09:28:35 [error] 290#290: *4 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.22.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/03 09:28:35 [error] 290#290: *4 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.22.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/03 09:28:36 [error] 290#290: *4 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.22.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/03 09:28:36 [error] 290#290: *4 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.22.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/03 09:28:36 [error] 290#290: *4 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.22.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/03 09:28:37 [error] 290#290: *4 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.22.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/03 09:28:37 [error] 290#290: *4 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.22.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/03 09:28:37 [error] 290#290: *4 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.22.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/11/03 09:28:38 [error] 290#290: *4 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.22.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"

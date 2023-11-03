@@ -1,24 +1,41 @@
 version: '3'
 services:
   blue:
+    container_name: demo_blue_1
     image: demo
+    depends_on:
+      - rabbit_blue
     environment:
       ENV: Blue
+      RABBITMQ_HOST: 172.22.0.5
+      RABBITMQ_PORT: 5672
     expose:
       - 5000
     networks:
-      - bluegreen
+      broker_network:
+        ipv4_address: 172.22.0.2
+    volumes:
+      - ./logs/app.log:/app/logs/app.log
 
   green:
+    container_name: demo_green_1
     image: demo
+    depends_on:
+      - rabbit_green
     environment:
       ENV: Green
+      RABBITMQ_HOST: 172.22.0.6
+      RABBITMQ_PORT: 5673
     expose:
       - 5000
     networks:
-      - bluegreen
+      broker_network:
+        ipv4_address: 172.22.0.3
+    volumes:
+      - ./logs/app.log:/app/logs/app.log
 
   nginx:
+    container_name: demo_nginx_1
     image: nginx:latest
     restart: always
     ports:
@@ -27,8 +44,41 @@ services:
       - ./nginx/default.conf:/etc/nginx/conf.d/default.conf:rw
       - ./nginx/nginx.conf:/etc/nginx/nginx.conf
       - ./nginx/log/access.log:/var/log/nginx/access.log
+      - ./nginx/log/error.log:/var/log/nginx/error.log
     networks:
-      - bluegreen
+      broker_network:
+        ipv4_address: 172.22.0.4
+
+  rabbit_blue:
+    container_name: demo_rabbit_blue_1
+    image: rabbitmq:management
+    restart: always
+    ports:
+      - "5672:5672"
+      - "15672:15672"
+    networks:
+      broker_network:
+        ipv4_address: 172.22.0.5
+    
+
+  rabbit_green:
+    container_name: demo_rabbit_green_1
+    image: rabbitmq:management
+    restart: always
+    ports:
+      - "5673:5672"
+      - "15673:15672"
+    networks:
+      broker_network:
+        ipv4_address: 172.22.0.6
 
 networks:
   bluegreen:
+  broker_network:
+    driver: bridge
+    ipam:
+      config:
+        - subnet: 172.22.0.0/16
+
+volumes:
+  log-volume:

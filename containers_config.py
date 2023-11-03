@@ -12,15 +12,15 @@ def list_running_containers():
     except subprocess.CalledProcessError:
         return []
 
-def check_container_running(container_name_contains):
+def check_container_running(cont_name):
     running_containers = list_running_containers()
+    containers = []
 
     if running_containers:
         for container_info in running_containers:
-            container_id, container_name = container_info.split()
-            if container_name_contains in container_name:
-                return container_name
-            return None
-    else:
-        print("No running containers found.")
-        return None
+            _, container_name = container_info.split()
+            containers.append(container_name)
+            if cont_name in containers:
+                # print('hey')
+                return True
+    return False
